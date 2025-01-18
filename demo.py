@@ -1,5 +1,0 @@
-print("Hello, Rishi")
-print("Success")
-print('try')
-print('try returns')
-print()
